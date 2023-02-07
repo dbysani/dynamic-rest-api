@@ -1,0 +1,6 @@
+{
+    "fields":[
+        {"sourceName": "firstname", "destinationName": "fname"},
+        {"sourceName": "lastname", "destinationName": "lname"}
+    ]
+}

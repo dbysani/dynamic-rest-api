@@ -1,0 +1,8 @@
+{
+    "fields":[
+        {"sourceName": "firstname", "destinationName": "fname"},
+        {"sourceName": "lastname", "destinationName": "lname"},
+        {"sourceName": "middlename", "destinationName": "mname"}, 
+        {"sourceName": "salutation", "destinationName": "prefix"} 
+    ]
+}
